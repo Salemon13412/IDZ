@@ -49,7 +49,7 @@ p {
   text-wrap: pretty;
 }
 
-:is(ul,ol)[role="list"] {
+:is(ul, ol)[role='list'] {
   list-style: none;
 }
 
